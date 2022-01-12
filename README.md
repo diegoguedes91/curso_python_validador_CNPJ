@@ -85,3 +85,12 @@ def gerador_novo_cnpj(novo_cnpj):
 
     return novo_cnpj
   ```
+### Exemplos do terminal do programa
+**CNPJ USADO NO EXEMPLO:** 04.252.011/0001-10 </br>
+_obs: CNPJ gerado aleatoriamente_
+
+![Exemplo de cpf invalido](https://github.com/diegoguedes91/curso_python_validador_CNPJ/blob/main/cnpj_nao_valido_teste)</br>
+#### O programa identifica o CNPJ valido com ou sem caracteres especiais:
+![Exemplo de cpf valido com caracter especial](https://github.com/diegoguedes91/curso_python_validador_CNPJ/blob/main/cnpj_valido_teste)</br>
+![Exemplo de cpf valido sem o caracter especial](https://github.com/diegoguedes91/curso_python_validador_CNPJ/blob/main/cnpj_valido_teste_2)
+
